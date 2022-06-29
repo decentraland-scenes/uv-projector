@@ -18,11 +18,10 @@ You need to create a projector plane ( Projector ) that is invisible to the play
 
 You need to also create a ScreenGroup for each Projector and assign the Screens you create to that group.
 
-You can project all the Screens' UVs once or on every frame inside a System using:
+You can project all the Screens' UVs once (or on every frame inside a System) using:
 
 ```
 myScreenGroup.updateScreens( myProjectorTargetPosition )
-
 ```
 
 ## Try it out
