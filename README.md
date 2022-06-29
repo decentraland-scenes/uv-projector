@@ -24,6 +24,8 @@ You can project all the Screens' UVs once (or on every frame inside a System) us
 myScreenGroup.updateScreens( Camera.instance.position )
 ```
 
+Do not parent the screens or the projector under any other Entity. Both need to be in world-space. You can however parent Entities to the screens to add frames, backgrounds etc.
+
 ## Try it out
 
 **Install the CLI**
