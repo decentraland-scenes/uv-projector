@@ -1,7 +1,7 @@
 # UV Projector
 _demo of the UV Projector scene running in preview._
 
-![demo](https://github.com/decentraland-scenes/uv-projector/blob/master/screenshots/uv.gif)
+![demo](https://github.com/decentraland-scenes/uv-projector/blob/main/screenshots/uv.gif)
 
 ## Description
 UV Projector is a tool that helps you project a large video stretching out onto many smaller screens. You can even reproject the UV cooridantes on every frame, so the video will always face towards the player.
