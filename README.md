@@ -21,7 +21,7 @@ You need to also create a ScreenGroup for each Projector and assign the Screens 
 You can project all the Screens' UVs once (or on every frame inside a System) using:
 
 ```
-myScreenGroup.updateScreens( myProjectorTargetPosition )
+myScreenGroup.updateScreens( Camera.instance.position )
 ```
 
 ## Try it out
